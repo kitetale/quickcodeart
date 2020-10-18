@@ -1,3 +1,5 @@
+//9/27/2020 tale p5.js
+// click to see the ripple effect on the pond
 function setup() {
   createCanvas(600, 600);
 }
