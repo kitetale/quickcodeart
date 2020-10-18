@@ -1,4 +1,4 @@
-//9/27/2020 tale 
+//9/27/2020 tale p5.js
 //draw a random triangle
 //calculate & draw a circle that would pass through all three points 
 //calculate & draw a circumcenter
